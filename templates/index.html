@@ -1,0 +1,17 @@
+<html>
+<head>
+  <title>Fake News Detector</title>
+  <link rel="stylesheet" href="../static/style.css">
+</head>
+
+<body>
+    <form action="{{url_for('predict')}}" method="post">
+      <h1>Fake News Detector</h1>
+      
+      <input type="text" id="input" placeholder="Enter news headline" name="text">
+      
+      <button type="submit" id="analyze">Analyze</button>
+      <h1>{{predicteeeed}}</h1>
+    </form>
+</body>
+</html>
