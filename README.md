@@ -1,6 +1,7 @@
 # Fake News Detection
 
-![Project Logo](link-to-your-image.png)
+![image](https://github.com/Sameeruddin8/Fake-News-Detection/assets/102674044/8f4d49e2-85f2-48c3-b339-00482f646255)
+
 
 ## Introduction
 
