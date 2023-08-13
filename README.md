@@ -29,9 +29,9 @@ This project focuses on utilizing Machine Learning techniques, specifically Logi
 
 6. **Prediction:** Once the model is trained and evaluated, you can use it to predict the authenticity of new news articles.
 
-## Results
+## Result
 
-![Project Demo Video](link-to-your-video.png)
+![Alt text](<Fake News Detector Final.gif>)
 
 ## Conclusion
 
